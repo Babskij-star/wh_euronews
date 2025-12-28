@@ -6,7 +6,7 @@ import logging
 # Конфигурация
 API_KEY = 'AIzaSyAcaItM4vmsh2HE6pF7gMJpQm62MmxjY5E'  # Вставь свой API-ключ
 VIDEO_ID = 'lwYzwdBiaho'  # ID видео
-TARGET_USER =  'Epshtein27'  # Имя пользователя, за которым будем следить
+TARGET_USER =  'White'  # Имя пользователя, за которым будем следить
 TELEGRAM_TOKEN = '7458010578:AAFn2QR5x7cVQcXduUbObqjId3zgUL-S_ms'  # Токен вашего Telegram бота
 CHAT_ID = '486253984'  # Ваш chat_id для отправки сообщений
 
